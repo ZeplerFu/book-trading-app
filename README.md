@@ -1,1 +1,1 @@
-Project of Zheping Fu, a Bookstore
+Zheping Fu's Project, A Bookstore
